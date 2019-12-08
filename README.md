@@ -10,7 +10,7 @@
   ```bash
   $ npm install
   ```
-4. To start the server run the command:
+4. To start the server run the command in folder with "index.js":
   ```bash
   $ nodemon
   ```
